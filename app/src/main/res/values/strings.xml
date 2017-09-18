@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sentiance_SDK_test</string>
+    <string name="sentiance_user_id_with_param">Sentiance userID: %1$s</string>
+    <string name="sentiance_version_with_param">Sentiance Version: %1$s</string>
+</resources>
